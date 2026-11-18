@@ -1,0 +1,15 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\waqas\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "python.analysis.extraPaths": [
+        ".",
+        "views",
+        "services",
+        "database",
+        "utils"
+    ],
+    "python.pyrefly.configPath": "${workspaceFolder}/pyrefly.toml",
+    "python.pyrefly.pythonInterpreterPath": "C:\\Users\\waqas\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "python.analysis.typeCheckingMode": "off",
+    "pylint.enabled": false,
+    "flake8.enabled": false
+}

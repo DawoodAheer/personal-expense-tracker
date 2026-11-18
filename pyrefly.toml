@@ -1,0 +1,23 @@
+project-includes = [
+    "**/*.py",
+]
+
+search-path = [
+    ".",
+    "views",
+    "services",
+    "database",
+    "utils",
+]
+
+python-interpreter-path = "C:/Users/waqas/AppData/Local/Programs/Python/Python312/python.exe"
+site-package-path = [
+    "C:/Users/waqas/AppData/Local/Programs/Python/Python312/Lib/site-packages",
+]
+
+[errors]
+# Suppress warnings for third-party libraries that lack type stubs (e.g. reportlab)
+untyped-import = false
+# Suppress unnecessary-type-conversion warnings
+unnecessary-type-conversion = false
+

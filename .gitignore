@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Pytest & test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# SQLite databases (uncomment if you wish to exclude local db from git)
+# expense_tracker.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
